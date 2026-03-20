@@ -52,7 +52,7 @@ export default function LandingPage() {
           ]}
           buttonAnimation="slide-up"
           layoutOrder="default"
-          imageSrc="http://img.b2bpic.net/free-photo/male-worker-feeling-unwell-coughing-while-working-factory-coronavirus-pandemic_637285-12055.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AszetADWk9mUk7sQvxso3I1f38/uploaded-1774046859612-qvv71bv4.png"
           imageAlt="Professional garage door repair service"
           mediaAnimation="blur-reveal"
           frameStyle="card"
